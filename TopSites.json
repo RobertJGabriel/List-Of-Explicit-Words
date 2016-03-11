@@ -48,16 +48,8 @@
     "site": "msn.com"
   },
   {
-    "id": 14,
-    "site": "yahoo.co.jp"
-  },
-  {
     "id": 15,
     "site": "linkedin.com"
-  },
-  {
-    "id": 16,
-    "site": "google.co.jp"
   },
   {
     "id": 17,
@@ -94,10 +86,6 @@
   {
     "id": 25,
     "site": "google.de"
-  },
-  {
-    "id": 26,
-    "site": "amazon.co.jp"
   },
   {
     "id": 27,
@@ -247,10 +235,7 @@
     "id": 63,
     "site": "office.com"
   },
-  {
-    "id": 64,
-    "site": "rakuten.co.jp"
-  },
+
   {
     "id": 65,
     "site": "pornhub.com"
@@ -279,10 +264,7 @@
     "id": 71,
     "site": "xinhuanet.com"
   },
-  {
-    "id": 72,
-    "site": "nicovideo.jp"
-  },
+
   {
     "id": 73,
     "site": "amazon.co.uk"
@@ -439,10 +421,7 @@
     "id": 111,
     "site": "163.com"
   },
-  {
-    "id": 112,
-    "site": "livedoor.jp"
-  },
+
   {
     "id": 113,
     "site": "google.com.pk"
@@ -487,10 +466,7 @@
     "id": 123,
     "site": "google.com.tw"
   },
-  {
-    "id": 124,
-    "site": "dmm.co.jp"
-  },
+
   {
     "id": 125,
     "site": "google.co.kr"
@@ -551,10 +527,7 @@
     "id": 139,
     "site": "tudou.com"
   },
-  {
-    "id": 140,
-    "site": "ameblo.jp"
-  },
+
   {
     "id": 141,
     "site": "etsy.com"
@@ -659,10 +632,7 @@
     "id": 166,
     "site": "kakaku.com"
   },
-  {
-    "id": 167,
-    "site": "goo.ne.jp"
-  },
+
   {
     "id": 168,
     "site": "zhihu.com"
@@ -675,10 +645,7 @@
     "id": 170,
     "site": "google.com.ua"
   },
-  {
-    "id": 171,
-    "site": "naver.jp"
-  },
+
   {
     "id": 172,
     "site": "flickr.com"
@@ -1135,10 +1102,7 @@
     "id": 285,
     "site": "t-online.de"
   },
-  {
-    "id": 286,
-    "site": "blog.jp"
-  },
+
   {
     "id": 287,
     "site": "1688.com"
@@ -1171,10 +1135,7 @@
     "id": 294,
     "site": "liputan6.com"
   },
-  {
-    "id": 295,
-    "site": "doorblog.jp"
-  },
+
   {
     "id": 296,
     "site": "ups.com"
@@ -1475,10 +1436,7 @@
     "id": 370,
     "site": "kinogo.co"
   },
-  {
-    "id": 371,
-    "site": "impress.co.jp"
-  },
+
   {
     "id": 372,
     "site": "livejasmin.com"
@@ -1755,10 +1713,7 @@
     "id": 440,
     "site": "stumbleupon.com"
   },
-  {
-    "id": 441,
-    "site": "ameba.jp"
-  },
+
   {
     "id": 442,
     "site": "infusionsoft.com"
@@ -1935,10 +1890,7 @@
     "id": 485,
     "site": "friv.com"
   },
-  {
-    "id": 486,
-    "site": "blogimg.jp"
-  },
+
   {
     "id": 487,
     "site": "asos.com"
@@ -1963,10 +1915,7 @@
     "id": 492,
     "site": "meetup.com"
   },
-  {
-    "id": 493,
-    "site": "hatena.ne.jp"
-  },
+
   {
     "id": 494,
     "site": "discovercard.com"
@@ -2055,10 +2004,7 @@
     "id": 515,
     "site": "billdesk.com"
   },
-  {
-    "id": 516,
-    "site": "japanpost.jp"
-  },
+
   {
     "id": 517,
     "site": "teepr.com"
@@ -2211,10 +2157,7 @@
     "id": 554,
     "site": "all2lnk.com"
   },
-  {
-    "id": 555,
-    "site": "so-net.ne.jp"
-  },
+
   {
     "id": 556,
     "site": "java.com"
@@ -2223,10 +2166,7 @@
     "id": 557,
     "site": "xunlei.com"
   },
-  {
-    "id": 558,
-    "site": "blogspot.jp"
-  },
+
   {
     "id": 559,
     "site": "moneycontrol.com"
@@ -2235,10 +2175,7 @@
     "id": 560,
     "site": "alexa.cn"
   },
-  {
-    "id": 561,
-    "site": "wikiwiki.jp"
-  },
+
   {
     "id": 562,
     "site": "google.com.bd"
@@ -2315,10 +2252,7 @@
     "id": 580,
     "site": "gamefaqs.com"
   },
-  {
-    "id": 581,
-    "site": "biglobe.ne.jp"
-  },
+
   {
     "id": 582,
     "site": "intoday.in"
@@ -2371,10 +2305,7 @@
     "id": 594,
     "site": "hotstar.com"
   },
-  {
-    "id": 595,
-    "site": "sakura.ne.jp"
-  },
+
   {
     "id": 596,
     "site": "yodobashi.com"
@@ -2411,18 +2342,12 @@
     "id": 604,
     "site": "adp.com"
   },
-  {
-    "id": 605,
-    "site": "tsite.jp"
-  },
+
   {
     "id": 606,
     "site": "disqus.com"
   },
-  {
-    "id": 607,
-    "site": "itmedia.co.jp"
-  },
+
   {
     "id": 608,
     "site": "leagueoflegends.com"
