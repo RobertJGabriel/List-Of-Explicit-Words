@@ -12,10 +12,6 @@
     "site":"msn.com"
   },
   {
-    "id":5,
-    "site":"bing.com"
-  },
-  {
     "id":6,
     "site":"amazon.com"
   },
@@ -44,16 +40,8 @@
     "site":"buzzfeed.com"
   },
   {
-    "id":13,
-    "site":"pinterest.com"
-  },
-  {
     "id":14,
     "site":"answers.com"
-  },
-  {
-    "id":15,
-    "site":"netflix.com"
   },
   {
     "id":16,
@@ -62,110 +50,6 @@
   {
     "id":17,
     "site":"live.com"
-  },
-  {
-    "id":18,
-    "site":"wikia.com"
-  },
-  {
-    "id":19,
-    "site":"aol.com"
-  },
-  {
-    "id":20,
-    "site":"paypal.com"
-  },
-
-  {
-    "id":22,
-    "site":"linkedin.com"
-  },
-  {
-    "id":23,
-    "site":"wordpress.com"
-  },
-
-  {
-    "id":25,
-    "site":"about.com"
-  },
-  {
-    "id":26,
-    "site":"blogger.com"
-  },
-
-  {
-    "id":28,
-    "site":"adobe.com"
-  },
-
-  {
-    "id":30,
-    "site":"weather.com"
-  },
-  {
-    "id":31,
-    "site":"nydailynews.com"
-  },
-  {
-    "id":32,
-    "site":"urbandictionary.com"
-  },
-  {
-    "id":33,
-    "site":"blogspot.com"
-  },
-  {
-    "id":34,
-    "site":"mozilla.org"
-  },
-  {
-    "id":35,
-    "site":"whitepages.com"
-  },
-  {
-    "id":36,
-    "site":"quizlet.com"
-  },
-  {
-    "id":37,
-    "site":"projectbird.com"
-  },
-  {
-    "id":38,
-    "site":"projectbird.com"
-  },
-  {
-    "id":39,
-    "site":"bustle.com"
-  },
-  {
-    "id":40,
-    "site":"projectbird.com"
-  },
-  {
-    "id":41,
-    "site":"wayfair.com"
-  },
-  {
-    "id":42,
-    "site":"projectbird.com"
-  },
-  {
-    "id":43,
-    "site":"walmart.com"
-  },
-  {
-    "id":44,
-    "site":"ask.com"
-  },
-  {
-    "id":70,
-    "site":"glassdoor.com"
-  },
-  {
-    "id":71,
-    "site":"projectbird.com"
   },
   {
     "id":120,
