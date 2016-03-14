@@ -4,26 +4,5 @@
   {
     "id":7,
     "site":"yahoo.com"
-  },
-  {
-    "id":10,
-    "site":"microsoft.com"
-  },
-  {
-    "id":11,
-    "site":"ebay.com"
-  },
-  {
-    "id":12,
-    "site":"buzzfeed.com"
-  },
-  {
-    "id":14,
-    "site":"answers.com"
-  },
-
-  {
-    "id":120,
-    "site":"rottentomatoes.com"
   }
 ]
