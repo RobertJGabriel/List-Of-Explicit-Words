@@ -1,12 +1,5 @@
 [
-  {
-    "id":2,
-    "site":"youtube.com"
-  },
-  {
-    "id":3,
-    "site":"facebook.com"
-  },
+
   {
     "id":4,
     "site":"msn.com"
@@ -18,15 +11,7 @@
   {
     "id":7,
     "site":"yahoo.com"
-  },
-  {
-    "id":8,
-    "site":"yelp.com"
-  },
-  {
-    "id":9,
-    "site":"twitter.com"
-  },
+  }
   {
     "id":10,
     "site":"microsoft.com"
@@ -43,14 +28,7 @@
     "id":14,
     "site":"answers.com"
   },
-  {
-    "id":16,
-    "site":"wikipedia.org"
-  },
-  {
-    "id":17,
-    "site":"live.com"
-  },
+
   {
     "id":120,
     "site":"rottentomatoes.com"
